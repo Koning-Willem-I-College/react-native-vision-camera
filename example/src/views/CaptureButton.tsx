@@ -18,7 +18,7 @@ import Reanimated, {
   useAnimatedGestureHandler,
   useSharedValue,
   withRepeat,
-} from 'react-native-reanimated';
+} from 'react-native-reanimated-latest';
 import type { Camera, PhotoFile, TakePhotoOptions, TakeSnapshotOptions, VideoFile } from 'react-native-vision-camera';
 import { CAPTURE_BUTTON_SIZE, SCREEN_HEIGHT, SCREEN_WIDTH } from './../Constants';
 
